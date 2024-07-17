@@ -1,0 +1,20 @@
+"chat_id","date","user_id","target_behaviour","num_turns","change_talk_ratio","top_utterance_type"
+1,"2023-07-27 13:48:37.43678","616354dc61efc8568688957e","weniger prokrastinieren",0,0,NULL
+2,"2023-07-27 14:14:29.244758","6154d06b17c275e888a310a4","gesünder essen",0,0,NULL
+3,"2023-07-27 14:19:46.294056","5e9dd9917fca8614c3ff4df0","gesünder essen",0,0,NULL
+4,"2023-07-27 14:31:38.895813","6328833c10cc013235926005","weniger prokrastinieren",0,0,NULL
+5,"2023-07-27 14:33:58.538169","614595c2f02b81d11457a399","gesünder essen",0,0,NULL
+6,"2023-07-27 14:35:02.283615","603c1168208b758f82345284","sein Verhalten ändern",0,0,NULL
+7,"2023-07-27 14:35:59.960283","603c1168208b758f82345284","nachhaltiger leben",0,0,NULL
+8,"2023-07-27 14:36:34.084678","565248ccfea9c60012c5cc62","gesünder essen",0,0,NULL
+9,"2023-07-27 14:41:43.140545","6153963f97c84ce267a3d5fc","gesünder essen",0,0,NULL
+10,"2023-07-27 14:43:02.752615","61159963b4e799b07923808b","weniger prokrastinieren",0,0,NULL
+11,"2023-07-27 14:49:15.391034","63eb30cc5ebc556dccd45265","weniger prokrastinieren",0,0,NULL
+12,"2023-07-31 14:08:46.20576","testing2","sein Verhalten ändern",0,0,NULL
+13,"2023-08-01 15:06:06.536989","Testing3","weniger prokrastinieren",0,0,NULL
+14,"2023-08-01 15:42:06.565935","63b6c7ef20c45fd1cff1ddca","weniger prokrastinieren",0,0,NULL
+15,"2023-08-01 15:44:42.263099","6107d58fd0b5c8a221809ccf","weniger prokrastinieren",0,0,NULL
+16,"2023-08-01 15:47:37.796287","63809d173657654197c1c97f","gesünder essen",0,0,NULL
+17,"2023-08-01 15:49:49.104731","5e09a01ba2c69625cd2fefb8","gesünder essen",0,0,NULL
+18,"2023-08-01 15:52:05.72295","60e80eac448c1761ce03dc27","weniger prokrastinieren",0,0,NULL
+19,"2023-08-01 15:52:43.627713","5f16bb739c6d933b43fa9121","gesünder essen",0,0,NULL

@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+setuptools 
+wheel
+spacy
+matplotlib
+seaborn
+scikit-posthocs
+pingouin
+pyirr

@@ -1,0 +1,9 @@
+transformers==4.28.1
+openai
+gradio==3.36.1
+torch 
+torchvision 
+torchaudio
+python-dotenv
+markdown
+psycopg2-binary

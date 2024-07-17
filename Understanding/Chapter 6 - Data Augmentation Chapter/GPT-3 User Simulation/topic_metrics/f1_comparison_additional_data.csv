@@ -1,0 +1,94 @@
+﻿condition;group;class;count;f1;Prec;Rec;conversations;domain;interaction type;synchronicity
+GLoHBCD Baseline;valence;valence;0;0.709;0.73;0.7;baseline;baseline;baseline;baseline
+GLoHBCD Baseline;valence;+;0;0.84;0.81;0.87;baseline;baseline;baseline;baseline
+GLoHBCD Baseline;valence;-;0;0.58;0.64;0.53;baseline;baseline;baseline;baseline
+GLoHBCD Baseline;label;mean label;0;0.75;0.77;0.74;baseline;baseline;baseline;baseline
+GLoHBCD Baseline;label;R;0;0.89;0.87;0.91;baseline;baseline;baseline;baseline
+GLoHBCD Baseline;label;TS;0;0.75;0.79;0.71;baseline;baseline;baseline;baseline
+GLoHBCD Baseline;label;C;0;0.62;0.65;0.59;baseline;baseline;baseline;baseline
+GLoHBCD Baseline;sublabel;mean sublabel;0;0.75;0.71;0.79;baseline;baseline;baseline;baseline
+GLoHBCD Baseline;sublabel;R_;0;0.86;0.9;0.83;baseline;baseline;baseline;baseline
+GLoHBCD Baseline;sublabel;a;0;0.58;0.66;0.62;baseline;baseline;baseline;baseline
+GLoHBCD Baseline;sublabel;d;0;0.72;0.88;0.79;baseline;baseline;baseline;baseline
+GLoHBCD Baseline;sublabel;n;0;0.65;0.79;0.71;baseline;baseline;baseline;baseline
+Smoke Stop Forum;valence;valence;683;0.64;0.64;0.64;multi-party;out-of-domain;human-human;asynchronous
+Smoke Stop Forum;valence;+;503;0.81;0.81;0.82;multi-party;out-of-domain;human-human;asynchronous
+Smoke Stop Forum;valence;-;180;0.47;0.47;0.46;multi-party;out-of-domain;human-human;asynchronous
+Smoke Stop Forum;label;mean label;683;0.69;0.72;0.67;multi-party;out-of-domain;human-human;asynchronous
+Smoke Stop Forum;label;R;445;0.86;0.83;0.88;multi-party;out-of-domain;human-human;asynchronous
+Smoke Stop Forum;label;TS;160;0.64;0.66;0.62;multi-party;out-of-domain;human-human;asynchronous
+Smoke Stop Forum;label;C;78;0.58;0.51;0.67;multi-party;out-of-domain;human-human;asynchronous
+Smoke Stop Forum;sublabel;mean sublabel;445;0.76;0.77;0.75;multi-party;out-of-domain;human-human;asynchronous
+Smoke Stop Forum;sublabel;R_;314;0.91;0.91;0.92;multi-party;out-of-domain;human-human;asynchronous
+Smoke Stop Forum;sublabel;a;44;0.64;0.64;0.64;multi-party;out-of-domain;human-human;asynchronous
+Smoke Stop Forum;sublabel;d;67;0.82;0.81;0.83;multi-party;out-of-domain;human-human;asynchronous
+Smoke Stop Forum;sublabel;n;20;0.68;0.72;0.65;multi-party;out-of-domain;human-human;asynchronous
+Synthetic GPT3 Data;valence;valence;74;0.79;0.8;0.78;single-party;in-domain;human-chatbot;asynchronous
+Synthetic GPT3 Data;valence;+;43;0.84;0.79;0.88;single-party;in-domain;human-chatbot;asynchronous
+Synthetic GPT3 Data;valence;-;31;0.74;0.81;0.68;single-party;in-domain;human-chatbot;asynchronous
+Synthetic GPT3 Data;label;mean label;74;0.91;0.88;0.95;single-party;in-domain;human-chatbot;asynchronous
+Synthetic GPT3 Data;label;R;54;0.96;1;0.93;single-party;in-domain;human-chatbot;asynchronous
+Synthetic GPT3 Data;label;TS;13;0.83;0.75;0.92;single-party;in-domain;human-chatbot;asynchronous
+Synthetic GPT3 Data;label;C;7;0.93;0.88;1;single-party;in-domain;human-chatbot;asynchronous
+Synthetic GPT3 Data;sublabel;mean sublabel;54;0.93;0.92;0.95;single-party;in-domain;human-chatbot;asynchronous
+Synthetic GPT3 Data;sublabel;R_;26;0.89;1;0.81;single-party;in-domain;human-chatbot;asynchronous
+Synthetic GPT3 Data;sublabel;a;13;0.87;0.76;1;single-party;in-domain;human-chatbot;asynchronous
+Synthetic GPT3 Data;sublabel;d;3;1;1;1;single-party;in-domain;human-chatbot;asynchronous
+Synthetic GPT3 Data;sublabel;n;12;0.96;0.92;1;single-party;in-domain;human-chatbot;asynchronous
+Optifast Mock-Chatbot;valence;valence;90;0.71;0.71;0.72;single-party;in-domain;human-chatbot;synchronous
+Optifast Mock-Chatbot;valence;+;72;0.88;0.89;0.88;single-party;in-domain;human-chatbot;synchronous
+Optifast Mock-Chatbot;valence;-;18;0.54;0.53;0.56;single-party;in-domain;human-chatbot;synchronous
+Optifast Mock-Chatbot;label;mean label;90;0.66;0.66;0.66;single-party;in-domain;human-chatbot;synchronous
+Optifast Mock-Chatbot;label;R;63;0.86;0.86;0.86;single-party;in-domain;human-chatbot;synchronous
+Optifast Mock-Chatbot;label;TS;10;0.57;0.55;0.6;single-party;in-domain;human-chatbot;synchronous
+Optifast Mock-Chatbot;label;C;17;0.55;0.56;0.53;single-party;in-domain;human-chatbot;synchronous
+Optifast Mock-Chatbot;sublabel;mean sublabel;63;0.46;0.42;0.56;single-party;in-domain;human-chatbot;synchronous
+Optifast Mock-Chatbot;sublabel;R_;56;0.89;0.94;0.84;single-party;in-domain;human-chatbot;synchronous
+Optifast Mock-Chatbot;sublabel;a;5;0.36;0.33;0.40;single-party;in-domain;human-chatbot;synchronous
+Optifast Mock-Chatbot;sublabel;d;2;0.57;0.4;1;single-party;in-domain;human-chatbot;synchronous
+Optifast Mock-Chatbot;sublabel;n;0;0;0;0;single-party;in-domain;human-chatbot;synchronous
+Health Coaching Dialogue Corpus;valence;valence;508;0.63;0.68;0.61;single-party;out-of-domain;human-human;asynchronous
+Health Coaching Dialogue Corpus;valence;+;430;0.91;0.88;0.95;single-party;out-of-domain;human-human;asynchronous
+Health Coaching Dialogue Corpus;valence;-;78;0.35;0.49;0.27;single-party;out-of-domain;human-human;asynchronous
+Health Coaching Dialogue Corpus;label;mean label;508;0.7;0.74;0.7;single-party;out-of-domain;human-human;asynchronous
+Health Coaching Dialogue Corpus;label;R;170;0.72;0.6;0.88;single-party;out-of-domain;human-human;asynchronous
+Health Coaching Dialogue Corpus;label;TS;156;0.67;0.72;0.63;single-party;out-of-domain;human-human;asynchronous
+Health Coaching Dialogue Corpus;label;C;182;0.72;0.89;0.6;single-party;out-of-domain;human-human;asynchronous
+Health Coaching Dialogue Corpus;sublabel;mean sublabel;170;0.83;0.84;0.82;single-party;out-of-domain;human-human;asynchronous
+Health Coaching Dialogue Corpus;sublabel;R_;70;0.79;0.76;0.81;single-party;out-of-domain;human-human;asynchronous
+Health Coaching Dialogue Corpus;sublabel;a;51;0.69;0.75;0.65;single-party;out-of-domain;human-human;asynchronous
+Health Coaching Dialogue Corpus;sublabel;d;37;0.88;0.85;0.92;single-party;out-of-domain;human-human;asynchronous
+Health Coaching Dialogue Corpus;sublabel;n;12;0.96;1;0.92;single-party;out-of-domain;human-human;asynchronous
+Instagram Data;label;mean label;912;0.65;0.69;0.64;multi-party;in-domain;human-human;asynchronous
+Instagram Data;label;R;390;0.72;0.66;0.81;multi-party;in-domain;human-human;asynchronous
+Instagram Data;label;TS;375;0.71;0.75;0.66;multi-party;in-domain;human-human;asynchronous
+Instagram Data;label;C;147;0.53;0.65;0.45;multi-party;in-domain;human-human;asynchronous
+Instagram Data;sublabel;mean sublabel;390;0.47;0.56;0.44;multi-party;in-domain;human-human;asynchronous
+Instagram Data;sublabel;R_;246;0.8;0.71;0.91;multi-party;in-domain;human-human;asynchronous
+Instagram Data;sublabel;a;52;0.35;0.5;0.27;multi-party;in-domain;human-human;asynchronous
+Instagram Data;sublabel;d;63;0.3;0.48;0.22;multi-party;in-domain;human-human;asynchronous
+Instagram Data;sublabel;n;29;0.43;0.56;0.34;multi-party;in-domain;human-human;asynchronous
+DARN-CAT WoZ Dialogues;valence;valence;80;0.79;0.71;0.974;single-party;out-of-domain;human-chatbot;synchronous
+DARN-CAT WoZ Dialogues;valence;+;77;0.97;1;0.95;single-party;out-of-domain;human-chatbot;synchronous
+DARN-CAT WoZ Dialogues;valence;-;3;0.6;0.43;1;single-party;out-of-domain;human-chatbot;synchronous
+DARN-CAT WoZ Dialogues;label;mean label;80;0.8;0.81;0.82;single-party;out-of-domain;human-chatbot;synchronous
+DARN-CAT WoZ Dialogues;label;R;36;0.84;0.76;0.94;single-party;out-of-domain;human-chatbot;synchronous
+DARN-CAT WoZ Dialogues;label;TS;11;0.83;0.77;0.91;single-party;out-of-domain;human-chatbot;synchronous
+DARN-CAT WoZ Dialogues;label;C;33;0.73;0.91;0.61;single-party;out-of-domain;human-chatbot;synchronous
+DARN-CAT WoZ Dialogues;sublabel;mean sublabel;36;0.89;0.91;0.88;single-party;out-of-domain;human-chatbot;synchronous
+DARN-CAT WoZ Dialogues;sublabel;R_;18;0.89;0.85;0.94;single-party;out-of-domain;human-chatbot;synchronous
+DARN-CAT WoZ Dialogues;sublabel;a;1;1;1;1;single-party;out-of-domain;human-chatbot;synchronous
+DARN-CAT WoZ Dialogues;sublabel;d;10;1;1;1;single-party;out-of-domain;human-chatbot;synchronous
+DARN-CAT WoZ Dialogues;sublabel;n;7;0.67;0.8;0.57;single-party;out-of-domain;human-chatbot;synchronous
+All Extensions;valence;valence;1345;0.67;0.68;0.66;All;All;All;All
+All Extensions;valence;+;1053;0.87;0.85;0.88;All;All;All;All
+All Extensions;valence;-;292;0.47;0.51;0.44;All;All;All;All
+All Extensions;label;mean label;1345;0.73;0.76;0.71;All;All;All;All
+All Extensions;label;R;705;0.82;0.77;0.89;All;All;All;All
+All Extensions;label;TS;340;0.67;0.69;0.65;All;All;All;All
+All Extensions;label;C;300;0.69;0.83;0.59;All;All;All;All
+All Extensions;sublabel;mean sublabel;705;0.82;0.82;0.81;All;All;All;All
+All Extensions;sublabel;R_;428;0.89;0.88;0.89;All;All;All;All
+All Extensions;sublabel;a;109;0.7;0.71;0.69;All;All;All;All
+All Extensions;sublabel;d;117;0.86;0.86;0.86;All;All;All;All
+All Extensions;sublabel;n;51;0.82;0.85;0.78;All;All;All;All

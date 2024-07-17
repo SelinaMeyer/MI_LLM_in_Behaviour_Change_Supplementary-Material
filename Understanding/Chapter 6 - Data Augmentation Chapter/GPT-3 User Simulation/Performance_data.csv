@@ -1,0 +1,17 @@
+﻿train;test;f1
+user;user;76.68
+mixed;user;73.52
+mixed predicted;user;76.53
+synthetic;user;61.72
+user;mixed;72.43
+mixed;mixed;79.93
+mixed predicted;mixed;71.6
+synthetic;mixed;78.2
+user;mixed predicted;92.77
+mixed;mixed predicted;84.31
+mixed predicted;mixed predicted;94.26
+synthetic;mixed predicted;81.69
+user;synthetic;71.51
+mixed;synthetic;81.11
+mixed predicted;synthetic;70.64
+synthetic;synthetic;80.96

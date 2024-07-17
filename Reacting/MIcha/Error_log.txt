@@ -1,0 +1,37 @@
+HANDLED CASES:
+-- Transaction error occured: the connection cannot be re-entered recursively, CHAT: 3, TURN: 4, BOT_MESSAGE: Eine 8. Du stehst dieser Veränderung also insgesamt positiv gegenüber. Kannst du mir etwas mehr über diese Einschätzung sagen? Warum hast du keinen höheren oder niedrigeren Wert angegeben?
+-- Transaction error occured: the connection cannot be re-entered recursively, CHAT: 2, TURN: 6, RATING_EXPLANATION: Antwort ist nicht vollständig
+-- Transaction error occured: the connection cannot be re-entered recursively, CHAT: 24, TURN: 4, BOT_MESSAGE: Eine 4. Das klingt als stündest du dieser Veränderung nicht allzu zuversichtlich gegenüber. Erzähl mir bitte mehr über deine Einstellung. Warum hast du keinen höheren oder niedrigeren Wert angegeben?
+-- Transaction error occured: the connection cannot be re-entered recursively, CHAT: 24, TURN: 5, BOT_MESSAGE: Es klingt, als ob du in der Vergangenheit Schwierigkeiten hattest, deine Prokrastination zu überwinden. Aber du bist hier, um einen neuen Ansatz zu diskutieren, was zeigt, dass du nicht aufgegeben hast. Du bist immer noch motiviert, eine Veränderung herbeizuführen.
+-- Transaction error occured: the connection cannot be re-entered recursively, CHAT: 23, TURN: 6, RATING: gut/hilfreich
+-- Transaction error occured: the connection cannot be re-entered recursively, CHAT: 23, TURN: 6, RATING_EXPLANATION: Motivierende Aussage
+-- [LOST] Transaction error occured: the connection cannot be re-entered recursively, adding USER 63f3a8e08f5324e0846faa59, CONDITION: framework the connection cannot be re-entered recursively
+-- Transaction error occured: the connection cannot be re-entered recursively, adding CC, PE and demographics with values cc1 = Stimme voll und ganz zu, 
+                      cc2 = Stimme voll und ganz zu, cc3 = Stimme voll und ganz zu, cc4 = Stimme voll und ganz zu, pe1 = Stimme eher nicht zu, pe2 = Stimme weder zu noch ab, pe3 = Stimme weder zu noch ab, 
+                      education = Abitur, job = Informatiker, end_time = 2023-08-09 09:22:51.410589 anmerkungen = Ich hoffe alles zu Ihrer Zufriedenheit beantwortet zu haben to user 5a74e93feea3d300016dd8ca
+-- Transaction error occured: the connection cannot be re-entered recursively, CHAT: 72, TURN: 9, RATING_EXPLANATION: -
+-- Transaction error occured: the connection cannot be re-entered recursively, CHAT: 47, TURN: 11, RATING: gut/hilfreich
+-- Transaction error occured: the connection cannot be re-entered recursively, CHAT: 51, TURN: 2, BOT_MESSAGE: Du möchtest also weniger prokrastinieren. Kannst du mir etwas darüber erzählen, warum dir diese Veränderung wichtig ist? the connection cannot be re-entered recursively
+-- Transaction error occured: the connection cannot be re-entered recursively, CHAT: 51, TURN: 9, RATING: gut/hilfreich
+-- Transaction error occured: the connection cannot be re-entered recursively, CHAT: 68, TURN: 3, BOT_MESSAGE: Wie bereit bist du auf einer Skala von 0 (überhaupt nicht) bis 10 (sehr) diese Veränderung durchzuführen?
+-- Transaction error occured: the connection cannot be re-entered recursively, CHAT: 73, TURN: 6, RATING_EXPLANATION: Finde die Erklärung mit Vitaminen und Mineralien gut
+-- Transaction error occured: the connection cannot be re-entered recursively, CHAT: 70, TURN: 12, BOT_MESSAGE: Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.
+-- Transaction error occured: the connection cannot be re-entered recursively, CHAT: 105, TURN: 8, BOT_MESSAGE: Du hast einige konkrete Ideen, wie du deine Ernährung verbessern kannst, das klingt sehr gut. Wie könnte es sich auf dein Wohlbefinden und deine sportliche Leistung auswirken, wenn du mehr Gemüse isst und weniger zuckerhaltige Lebensmittel konsumierst
+-- Transaction error occured: the connection cannot be re-entered recursively, CHAT: 146, TURN: 10, RATING_EXPLANATION: Im letzten Teil der Antwort sind Satzbaufehler und die Antwort bricht im Fluss ab 
+-- Transaction error occured: the connection cannot be re-entered recursively, CHAT: 151, TURN: 3, BOT_MESSAGE: Wie zuversichtlich bist du auf einer Skala von 0 (überhaupt nicht) bis 10 (sehr), dass du diese Veränderung durchführen kannst?
+
+
+
+Potentially complicated to enter (needs some manipulation of data?)
+
+Transaction error occured: the connection cannot be re-entered recursively, CHAT: 86, TURN: 4, USER_UTTERANCE: Ich merke, dass es mich belastet, wenn ich meine Aufgaben nicht gut erledigen kann und ständig den Fokus verliere. Ich möchte daran etwas ändern um effizienter und ausgeglichener zu werden., BOT_ACTION: Exploring Goals and Values
+Transaction error occured: the connection cannot be re-entered recursively, CHAT: 92, TURN: 10, USER_UTTERANCE: Prokrastination ist selten eine bewusste Entscheidung sondern ähnelt eher einem Suchtverhalten., BOT_ACTION: Next Steps
+Transaction error occured: the connection cannot be re-entered recursively, CHAT: 2, TURN: 3, RESPONSE: 9
+Transaction error occured: the connection cannot be re-entered recursively, CHAT: 12, TURN: 2, USER_MESSAGE: Weil ich so viel Zeit verschwende
+Transaction error occured: the connection cannot be re-entered recursively, CHAT: 27, TOPIC: Ich möchte mich gesünder ernähren, TURN: 1 
+Transaction error occured: the connection cannot be re-entered recursively, CHAT: 37, TURN: 6, USER_UTTERANCE: Bei kurzen Strecken versuche ich auch meistens den E Scooter zu nehmen, allerdings kann ich damit beispielsweise keine Einkäufe erledigten, und bei dem schlechten Wetter in den letzten Wochen sind nicht-überdachte Verkehrsmittel auch irgendwie doof... auch zur Bushaltestelle laufen wird damit echt unsympathisch, BOT_ACTION: None
+Transaction error occured: the connection cannot be re-entered recursively, CHAT: 49, TURN: 9, USER_UTTERANCE: Das weiß ich leider noch nicht so genau, BOT_ACTION: Summary
+Transaction error occured: the connection cannot be re-entered recursively, CHAT: 51, TURN: 9, USER_UTTERANCE: 2, BOT_ACTION: Summary
+Transaction error occured: the connection cannot be re-entered recursively, CHAT: 60, TURN: 9, USER_UTTERANCE: Ich denke einfach das ich kein Durchhaltevermögen hätte, und mich weiterhin unwohl füheln würde, BOT_ACTION: Summary
+Transaction error occured: the connection cannot be re-entered recursively, CHAT: 150, TURN: 7, USER_UTTERANCE: in der Vergangenheit habe ich Produkte mit Plastikverpackung gekauft, wenn ich keine Wahl hatte, BOT_ACTION: Elaboration
